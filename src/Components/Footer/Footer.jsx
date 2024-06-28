@@ -15,14 +15,14 @@ const Footer = () => {
             
             </ul>
             <div className="footer__social">
-            <a href="" className="footer__social-link" target='_blank'>
+            <a href="mailto:rahulpatilpr483@gmail.com" className="footer__social-link" target='_blank'>
                 <i className="bx bx-envelope"></i>
                 </a>
-                <a href="" className="footer__social-link" target='_blank'>
+                <a href="https://www.linkedin.com/in/rahul-patil-145b2826b" className="footer__social-link" target='_blank'>
                 <i className="bx bxl-linkedin"></i>
 
                 </a>
-                <a href="" className="footer__social-link" target='_blank'>
+                <a href="https://www.instagram.com/_rahulpatil_003?igsh=MXNobzlocm16cXR4Yg==" className="footer__social-link" target='_blank'>
                 <i className="bx bxl-instagram"></i>
 
                 </a>
