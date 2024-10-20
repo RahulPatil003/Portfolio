@@ -9,9 +9,9 @@ const Footer = () => {
                 <li>
                     <a href="#about" className="fooeter__link">About</a>
                 </li>
-                <li>
+                {/* <li>
                     <a href="#portfolio" className="fooeter__link">Projects</a>
-                </li>
+                </li> */}
             
             </ul>
             <div className="footer__social">
